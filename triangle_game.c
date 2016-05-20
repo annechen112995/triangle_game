@@ -1,7 +1,4 @@
 /**
- * Anne Chen
- * CS 11, Spring 2016 Lab 4
- * 
  * This program obtains a triangle game board and takes in a set of 
  * moves as input from the user. If the move is invalid, it returns an 
  * error. If it is valid, it makes changes on the board according to the
